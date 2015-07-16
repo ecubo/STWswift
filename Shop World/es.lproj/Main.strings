@@ -1,0 +1,135 @@
+
+/* Class = "UITabBarItem"; title = "Favorites"; ObjectID = "1vm-iB-QMl"; */
+"1vm-iB-QMl.title" = "Favoritos";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3GK-IA-fgs"; */
+"3GK-IA-fgs.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Avda. Burgos, 21\n28036 Madrid\nEspaña"; ObjectID = "6jA-Tk-cKI"; */
+"6jA-Tk-cKI.text" = "Avda. Burgos, 21\n28036 Madrid\nEspaña";
+
+/* Class = "UITabBarItem"; title = "Conversor"; ObjectID = "I8i-Lw-Tew"; */
+"I8i-Lw-Tew.title" = "Conversor";
+
+/* Class = "UIButton"; normalTitle = "Add new place"; ObjectID = "MR7-Xk-LTa"; */
+"MR7-Xk-LTa.normalTitle" = "Añadir lugar";
+
+/* Class = "UINavigationItem"; title = "CATEGORIES"; ObjectID = "O1y-Ti-z7Y"; */
+"O1y-Ti-z7Y.title" = "CATEGORIAS";
+
+/* Class = "UINavigationItem"; title = "FAVORITES"; ObjectID = "Rwq-sx-a0A"; */
+"Rwq-sx-a0A.title" = "FAVORITOS";
+
+/* Class = "UINavigationItem"; title = "PLACES"; ObjectID = "SeA-nY-w4a"; */
+"SeA-nY-w4a.title" = "LUGARES";
+
+/* Class = "UITabBarItem"; title = "Categories"; ObjectID = "SuC-dw-3HR"; */
+"SuC-dw-3HR.title" = "Categorias";
+
+/* Class = "UIButton"; normalTitle = "Select Photo"; ObjectID = "T3P-yx-DGL"; */
+"T3P-yx-DGL.normalTitle" = "Seleccionar Foto";
+
+/* Class = "UITabBarItem"; title = "Places"; ObjectID = "dKb-50-Vga"; */
+"dKb-50-Vga.title" = "Lugares";
+
+/* Class = "UILabel"; text = "Labstore Spain"; ObjectID = "kWK-Uz-uAt"; */
+"kWK-Uz-uAt.text" = "Labstore Spain";
+
+/* Class = "UINavigationItem"; title = "CONVERSOR"; ObjectID = "lpD-Yv-XbH"; */
+"lpD-Yv-XbH.title" = "CONVERSOR";
+
+/* Class = "UITextField"; placeholder = "Place name"; ObjectID = "nx2-oG-5gn"; */
+"nx2-oG-5gn.placeholder" = "Nombre del lugar";
+
+/* Class = "UIButton"; normalTitle = "Select Category"; ObjectID = "weY-qE-43Q"; */
+"weY-qE-43Q.normalTitle" = "Seleccionar Categoría";
+
+/* Class = "UISegmentedControl"; y6G-DQ-c8k.segmentTitles[0] = "Map"; ObjectID = "y6G-DQ-c8k"; */
+"y6G-DQ-c8k.segmentTitles[0]" = "Mapa";
+
+/* Class = "UISegmentedControl"; y6G-DQ-c8k.segmentTitles[1] = "List"; ObjectID = "y6G-DQ-c8k"; */
+"y6G-DQ-c8k.segmentTitles[1]" = "Listado";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zhX-D7-4cA"; */
+"zhX-D7-4cA.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "User"; ObjectID = "Nop-S1-Mex"; */
+"Nop-S1-Mex.title" = "Cuenta";
+
+/* Class = "UINavigationItem"; title = "USER ACCOUNT"; ObjectID = "YE0-eM-Xgt"; */
+"YE0-eM-Xgt.title" = "CUENTA";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "4FV-Lm-cZN"; */
+"4FV-Lm-cZN.placeholder" = "Dirección";
+
+/* Class = "UINavigationItem"; title = "LOG IN"; ObjectID = "YgC-1A-ne2"; */
+"YgC-1A-ne2.title" = "INICIO";
+
+/* Class = "UILabel"; text = "THE 1ª APP THAT WILL ALLOW \nYOU TO BUY WORLDWIDE"; ObjectID = "Fz1-XB-YPn"; */
+"Fz1-XB-YPn.text" = "LA 1ª APP QUE TE PERMITIRÁ \nCOMPRAR EN TODO EL MUNDO";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "Dk6-iU-TPG"; */
+"Dk6-iU-TPG.normalTitle" = "Inicia Sesión";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "Hl3-BP-zpY"; */
+"Hl3-BP-zpY.normalTitle" = "Regístrate";
+
+/* Class = "UIViewController"; title = "SING IN"; ObjectID = "VRh-ix-8F5"; */
+"VRh-ix-8F5.title" = "INICIA SESIÓN";
+
+/* Class = "UIViewController"; title = "SING UP"; ObjectID = "0Il-TD-YQK"; */
+"0Il-TD-YQK.title" = "REGÍSTRATE";
+
+/* Class = "UITextField"; placeholder = "Insert User name"; ObjectID = "qYU-BB-VWX"; */
+"qYU-BB-VWX.placeholder" = "Nombre de usuario";
+
+/* Class = "UITextField"; placeholder = "Insert Email"; ObjectID = "iJ0-Wz-G0R"; */
+"iJ0-Wz-G0R.placeholder" = "Dirección de email";
+
+/* Class = "UITextField"; placeholder = "Insert Password"; ObjectID = "chO-tv-AhL"; */
+"chO-tv-AhL.placeholder" = "Contraseña";
+
+/* Class = "UITextField"; placeholder = "Repeat Password"; ObjectID = "McH-iA-Cwe"; */
+"McH-iA-Cwe.placeholder" = "Repite Contraseña";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "se2-u4-PAW"; */
+"se2-u4-PAW.normalTitle" = "Registro";
+
+/* Class = "UITextField"; placeholder = "Insert User name"; ObjectID = "GcC-eW-8FZ"; */
+"GcC-eW-8FZ.placeholder" = "Nombre de usuario";
+
+/* Class = "UITextField"; placeholder = "Insert Password"; ObjectID = "MKD-cq-MYf"; */
+"MKD-cq-MYf.placeholder" = "Contraseña";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "KmX-xv-gaE"; */
+"KmX-xv-gaE.normalTitle" = "Inicio de Sesión";
+
+/* Class = "UIButton"; normalTitle = "Forgot password?"; ObjectID = "oGB-Uy-Sqf"; */
+"oGB-Uy-Sqf.normalTitle" = "¿Has olvidado tu contraseña?";
+
+/* Class = "UITextField"; placeholder = "Insert Email"; ObjectID = "17P-po-wpb"; */
+"17P-po-wpb.placeholder" = "Dirección de email";
+
+/* Class = "UIButton"; normalTitle = "Request new password"; ObjectID = "tco-PT-DFX"; */
+"tco-PT-DFX.normalTitle" = "Solicitar nueva contraseña";
+
+/* Class = "UIBarButtonItem"; title = "LOG OUT"; ObjectID = "xCA-ty-mrM"; */
+"xCA-ty-mrM.title" = "CERRAR SESIÓN";
+
+/* Class = "UIBarButtonItem"; title = "EDIT"; ObjectID = "Nhz-1w-NlJ"; */
+"Nhz-1w-NlJ.title" = "EDITAR";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "Hqs-ot-rK9"; */
+"Hqs-ot-rK9.normalTitle" = "Aceptar";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "1xj-HM-Htl"; */
+"1xj-HM-Htl.normalTitle" = "Cancelar";
+
+/* Class = "UIButton"; normalTitle = "Choose Color"; ObjectID = "p0f-yA-NnA"; */
+"p0f-yA-NnA.normalTitle" = "Elegir Color";
+
+/* Class = "UIButton"; normalTitle = "Choose Size"; ObjectID = "YGj-q8-uBa"; */
+"YGj-q8-uBa.normalTitle" = "Elegir Talla";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "vKB-0J-0nC"; */
+"vKB-0J-0nC.normalTitle" = "Aceptar";
